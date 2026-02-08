@@ -77,13 +77,11 @@ Housing Associations must not be permitted to demolish social housing (or leave 
 
 ## Click the links below for more information about the community campaigns who want to challenge the Local Plan:
 
-- [Standing Up 4 Nature](https://example.com) - detailed proposals document to create a Local Plan for nature and affordable homes.
-- [Save Sandrock Bends](https://example.com)
-- [Fairlight Fields Saviours (Tilekiln Farm)](https://example.com)
-- [Don't Concrete the Convent](https://example.com)
-- [Save our Bathing Pool Site](https://example.com)
+- [Standing Up 4 Nature](https://www.facebook.com/groups/sun.hastings.rother/) - detailed proposals document to create a Local Plan for nature and affordable homes.
+- [Save Sandrock Bends](https://www.savesandrockbends.co.uk/)
+- [Fairlight Fields Saviours (Tilekiln Farm)](./assets/TILEKILN%20FIELDS%20FLYER_260127_103117.pdf)
+- [Don't Concrete the Convent](https://www.facebook.com/profile.php?id=61584946118558)
+- [Save our Bathing Pool Site](https://www.facebook.com/groups/saveourbathingpoolsite/)
 - [Refurbish Don't Demolish Clifton Court](https://c.org/F7xCCQNYt9)
-- [Four Courts](https://example.com)
-- [Community-led development of Crystal Square with Hastings Rental Health Co-op](https://example.com)
-- [TopHais modular sustainable housing proposals](https://example.com) (above car parks and on other brownfield sites)
+- [TopHais modular sustainable housing proposals](./assets/Hastings%20BC%20Greyfield%20Capacity%20Study-extract%2029.05.24%20(4).pdf) (above car parks and on other brownfield sites)
 - [Local Nature Recovery Strategy](https://sussexnaturerecovery.org.uk/publications)
