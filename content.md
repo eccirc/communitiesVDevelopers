@@ -93,7 +93,6 @@ Housing Associations must not be permitted to demolish social housing (or leave 
 Sustainable new housing proposals (above car parks and on other brownfield sites) by Urban View architects ‘Greyfield study doc’
 [Crystal Square](https://www.little-ships.org/locations/hastings/crystal-sq/)
 [Four Courts](https://www.little-ships.org/locations/hastings/four-courts/)
+[Modular sustainable housing proposals](./assets/Hastings%20BC%20Greyfield%20Capacity%20Study-extract%2029.05.24%20(4).pdf) (above car parks and on other brownfield sites)
 
 See the [Local Nature Recovery Strategy](https://sussexnaturerecovery.org.uk/publications), which could be included in the Plan
-
-[TopHais modular sustainable housing proposals](./assets/Hastings%20BC%20Greyfield%20Capacity%20Study-extract%2029.05.24%20(4).pdf) (above car parks and on other brownfield sites)
