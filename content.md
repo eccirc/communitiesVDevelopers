@@ -26,7 +26,7 @@ This website will link to the various campaigns and articles by local people who
 - Graystone Lane (beside Speckled Wood)
 - Rock Lane
 - Breadsell by Marline Valley
-- Winchester Lane
+- Winchelsea Lane
 - Beaneys Lane
 - Seaside Road (Old Bathing Pool Site)
 - Former Convent playing fields on Magdalene Road
@@ -77,11 +77,23 @@ Housing Associations must not be permitted to demolish social housing (or leave 
 
 ## Click the links below for more information about the community campaigns who want to challenge the Local Plan:
 
-- [Standing Up 4 Nature](https://www.facebook.com/groups/sun.hastings.rother/) - detailed proposals document to create a Local Plan for nature and affordable homes.
+- [Standing Up 4 Nature](/assets/SU4N%20Response%20to%20Hastings%20Local%20Plan%20Consultation.pdf) - detailed proposals document to create a Local Plan for nature and affordable homes.
 - [Save Sandrock Bends](https://www.savesandrockbends.co.uk/)
-- [Fairlight Fields Saviours (Tilekiln Farm)](./assets/TILEKILN%20FIELDS%20FLYER_260127_103117.pdf)
+- [Save Tilekin Fields](./assets/TILEKILN%20FIELDS%20FLYER_260127_103117.pdf)
+- [Protect Ore Green Spaces](./assets/A4%20Flier%20Final%20Version.pdf) - flyer for their upcoming meeting - join [WhatsApp group](https://chat.whatsapp.com/JrXjpk1tRnF4L3ka1P3rzc)
 - [Don't Concrete the Convent](https://www.facebook.com/profile.php?id=61584946118558)
 - [Save our Bathing Pool Site](https://www.facebook.com/groups/saveourbathingpoolsite/)
-- [Refurbish Don't Demolish Clifton Court](https://c.org/F7xCCQNYt9)
-- [TopHais modular sustainable housing proposals](./assets/Hastings%20BC%20Greyfield%20Capacity%20Study-extract%2029.05.24%20(4).pdf) (above car parks and on other brownfield sites)
-- [Local Nature Recovery Strategy](https://sussexnaturerecovery.org.uk/publications)
+- [Refurbish Don't Demolish - Four Courts](https://www.little-ships.org/locations/hastings/four-courts/)
+- [Refurbish Don't Demolish - Clifton Court](https://c.org/F7xCCQNYt9)
+- [Hastings Rental Health Co-op](https://hastingsrentalhealthcoop.org/hbc-local-plan-for-co-ops)
+- [Hastings Urban Bikes](https://www.hastingsurbanbikes.org/) - advocating for cycling and campaigning for better cycle infrastructure in Hastings
+
+## Resources for alternative local plan ideas -
+
+Sustainable new housing proposals (above car parks and on other brownfield sites) by Urban View architects ‘Greyfield study doc’
+[Crystal Square](https://www.little-ships.org/locations/hastings/crystal-sq/)
+[Four Courts](https://www.little-ships.org/locations/hastings/four-courts/)
+
+See the [Local Nature Recovery Strategy](https://sussexnaturerecovery.org.uk/publications), which could be included in the Plan
+
+[TopHais modular sustainable housing proposals](./assets/Hastings%20BC%20Greyfield%20Capacity%20Study-extract%2029.05.24%20(4).pdf) (above car parks and on other brownfield sites)
