@@ -8,10 +8,9 @@ But will it be a plan for developers? To build housing we can't afford on our gr
 
 Or will it be a plan for our communities? One that meets our need for affordable housing, amenities and public transport, and protects our green spaces for all of us?
 
-**Find full text of the draft local plan here:**  
-[Draft Local Plan PDF](https://hastings.moderngov.co.uk/documents/g5784/Public%20reports%20pack%2026th-Jan-2026%2018.00%20Cabinet.pdf?T=10)
+The public consultation is now live and will run until April 7th. This will be our chance to influence what Hastings will be like for the future and you can put in your comments [on the council website](https://hastings.oc2.uk/document/190)
 
-The public consultation is coming soon and will run for 6 weeks. This will be our chance to influence what Hastings will be like for the future and we will share the link to the council consultation portal as soon as it goes live.
+There will be a public event in the Common Room on Cambridge Road in central Hastings on Sunday March 22nd from 1pm to 5pm to hear from the many campaigners proposing changes to the plan. [Full details and sign up on the eventbrite here](https://www.eventbrite.co.uk/e/1984458425571?aff=oddtdtcreator)
 
 This website will link to the various campaigns and articles by local people who want to make the plan better for communities and our environment. If you want to add your campaign group details please email **communitiesvdevelopers@gmail.com**
 
@@ -79,7 +78,7 @@ Housing Associations must not be permitted to demolish social housing (or leave 
 
 - [Standing Up 4 Nature](/assets/SU4N%20Response%20to%20Hastings%20Local%20Plan%20Consultation.pdf) - detailed proposals document to create a Local Plan for nature and affordable homes.
 - [Save Sandrock Bends](https://www.savesandrockbends.co.uk/)
-- [Save Tilekin Fields](./assets/TILEKILN%20FIELDS%20FLYER_260127_103117.pdf)
+- [Save Tilekiln Fields](./assets/TILEKILN%20FIELDS%20FLYER_260127_103117.pdf)
 - [Protect Ore Green Spaces](./assets/A4%20Flier%20Final%20Version.pdf) - flyer for their upcoming meeting - join [WhatsApp group](https://chat.whatsapp.com/JrXjpk1tRnF4L3ka1P3rzc)
 - [Don't Concrete the Convent](https://www.facebook.com/profile.php?id=61584946118558)
 - [Save our Bathing Pool Site](https://www.facebook.com/groups/saveourbathingpoolsite/)
