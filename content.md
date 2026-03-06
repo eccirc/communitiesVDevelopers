@@ -82,7 +82,6 @@ Housing Associations must not be permitted to demolish social housing (or leave 
 - [Protect Ore Green Spaces](./assets/A4%20Flier%20Final%20Version.pdf) - flyer for their upcoming meeting - join [WhatsApp group](https://chat.whatsapp.com/JrXjpk1tRnF4L3ka1P3rzc)
 - [Don't Concrete the Convent](https://www.facebook.com/profile.php?id=61584946118558)
 - [Save our Bathing Pool Site](https://www.facebook.com/groups/saveourbathingpoolsite/)
-- [Refurbish Don't Demolish - Four Courts](https://www.little-ships.org/locations/hastings/four-courts/)
 - [Refurbish Don't Demolish - Clifton Court](https://c.org/F7xCCQNYt9)
 - [Hastings Rental Health Co-op](https://hastingsrentalhealthcoop.org/hbc-local-plan-for-co-ops)
 - [Hastings Urban Bikes](https://www.hastingsurbanbikes.org/) - advocating for cycling and campaigning for better cycle infrastructure in Hastings
