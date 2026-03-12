@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Arial, sans-serif;
     line-height: 1.6;
     color: #000;
     background: #fff;
@@ -70,6 +70,22 @@ p {
     margin-bottom: 1rem;
 }
 
+p, ul {
+    font-size: larger;
+}
+
+.poster-container {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+    margin: 3rem auto;
+}
+
+.poster-container > a > img {
+    width: 100%;
+}
+
 strong {
     font-weight: bold;
     color: #c00;
@@ -90,6 +106,7 @@ a {
     color: #c00;
     text-decoration: none;
     transition: color 0.2s ease;
+    font-weight: bold;
 }
 
 a:hover {
@@ -119,11 +136,15 @@ hr {
     }
 
     h3 {
-        font-size: 1.2rem;
+        font-size: 1.3rem;
     }
 
     ul {
         margin-left: 1.5rem;
+    }
+
+    p, ul {
+        font-size: large;
     }
 }
 
@@ -137,6 +158,6 @@ hr {
     }
 
     h3 {
-        font-size: 1.1rem;
+        font-size: 1.2rem;
     }
 }

@@ -10,6 +10,12 @@ Or will it be a plan for our communities? One that meets our need for affordable
 
 The public consultation is now live and will run until April 7th. This will be our chance to influence what Hastings will be like for the future and you can put in your comments [on the council website](https://hastings.oc2.uk/document/190)
 
+<div class="poster-container">
+  <a href="https://www.eventbrite.co.uk/e/1984458425571?aff=oddtdtcreator">
+    <img src="./assets/flyerMar22.jpg" alt="flyer for Hastings local plan event on the 22nd"/>
+  </a>
+</div>
+
 There will be a public event in the Common Room on Cambridge Road in central Hastings on Sunday March 22nd from 1pm to 5pm to hear from the many campaigners proposing changes to the plan. [Full details and sign up on the eventbrite here](https://www.eventbrite.co.uk/e/1984458425571?aff=oddtdtcreator)
 
 This website will link to the various campaigns and articles by local people who want to make the plan better for communities and our environment. If you want to add your campaign group details please email **communitiesvdevelopers@gmail.com**
