@@ -1,22 +1,149 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-GB">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Communities Vs Developers - website with links to community groups in Hastings, East Sussex. Discussing points around the Local Plan that will affect development and spending in the area in the years to come">
-    <title>Communities V Developers - Hastings Local Plan</title>
-    <link rel="stylesheet" href="styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="markdown-parser.js" defer></script>
-    <base target="_blank">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- ─── Primary SEO ─────────────────────────────────────────────────── -->
+  <title>Communities vs Developers – Hastings Local Plan | East Sussex Housing Concerns</title>
+  <meta name="description" content="Hastings community groups opposing and scrutinising the Hastings Local Plan 2025–2045. Find information on housing developments, infrastructure spending, and how to get involved in shaping the future of Hastings and St Leonards, East Sussex.">
+  <meta name="keywords" content="Hastings Local Plan, Hastings housing development, East Sussex planning, community groups Hastings, St Leonards-on-Sea development, Hastings Borough Council planning, oppose housing development Hastings, Hastings 2040, local plan consultation East Sussex">
+  <meta name="author" content="Communities vs Developers Hastings">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://communitiesvdevelopers.netlify.app/">
+
+  <!-- ─── Geo / Local SEO ──────────────────────────────────────────────── -->
+  <meta name="geo.region" content="GB-ESX">
+  <meta name="geo.placename" content="Hastings, East Sussex">
+  <meta name="geo.position" content="50.8543;0.5730">
+  <meta name="ICBM" content="50.8543, 0.5730">
+
+  <!-- ─── Open Graph (Facebook / LinkedIn) ────────────────────────────── -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://communitiesvdevelopers.netlify.app/">
+  <meta property="og:title" content="Communities vs Developers – Hastings Local Plan">
+  <meta property="og:description" content="Hastings community groups opposing and scrutinising the Local Plan 2025–2045. Housing developments, infrastructure spending, and how to get involved.">
+  <meta property="og:image" content="https://communitiesvdevelopers.netlify.app/COMVd.jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Communities vs Developers – Hastings Local Plan">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:site_name" content="Communities vs Developers Hastings">
+
+  <!-- ─── Twitter Card ─────────────────────────────────────────────────── -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Communities vs Developers – Hastings Local Plan">
+  <meta name="twitter:description" content="Hastings community groups opposing and scrutinising the Local Plan 2025–2045.">
+  <meta name="twitter:image" content="https://communitiesvdevelopers.netlify.app/COMVd.jpeg">
+
+  <!-- ─── Structured Data: WebSite ─────────────────────────────────────── -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Communities vs Developers – Hastings Local Plan",
+    "url": "https://communitiesvdevelopers.netlify.app/",
+    "description": "A resource for Hastings community groups opposing and scrutinising the Hastings Local Plan, covering housing developments and infrastructure spending in East Sussex.",
+    "inLanguage": "en-GB",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://communitiesvdevelopers.netlify.app/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  <!-- ─── Structured Data: LocalBusiness / CivicStructure ─────────────── -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CivicStructure",
+    "name": "Communities vs Developers Hastings",
+    "url": "https://communitiesvdevelopers.netlify.app/",
+    "description": "Coalition of community groups in Hastings, East Sussex, scrutinising and opposing elements of the Hastings Local Plan 2025–2045.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Hastings",
+      "addressRegion": "East Sussex",
+      "addressCountry": "GB"
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Hastings",
+      "sameAs": "https://en.wikipedia.org/wiki/Hastings"
+    },
+    "sameAs": []
+  }
+  </script>
+
+  <!-- ─── Structured Data: FAQPage (edit Q&As to match your content) ───── -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the Hastings Local Plan?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Hastings Local Plan is a statutory planning document produced by Hastings Borough Council that sets out a strategy for housing, economic development, and infrastructure across Hastings and St Leonards-on-Sea over a 20-year period."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which community groups in Hastings are concerned about the Local Plan?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A number of local resident associations, environmental groups, and neighbourhood forums in Hastings and St Leonards-on-Sea have raised concerns about proposed housing allocations, greenfield development, and infrastructure provision in the Local Plan. This site provides links and information for those groups."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I get involved in the Hastings Local Plan consultation?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Residents can respond during formal consultation periods published by Hastings Borough Council. Community groups listed on this site also organise local meetings, campaigns, and written representation to the Planning Inspectorate."
+        }
+      }
+    ]
+  }
+  </script>
+
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="markdown-parser.js" defer></script>
+  <base target="_blank">
 </head>
+
 <body>
-    <div class="background"></div>
-    
-    <div class="container">
-        <div id="content">
-            <p class="loading">Loading content...</p>
-        </div>
-    </div>
+  <div class="background"></div>
+
+  <!-- Semantic wrapper – keeps your existing layout, adds meaning for crawlers -->
+  <div class="container">
+
+    <!-- Hidden-but-crawlable semantic header (style with CSS to suit your design) -->
+    <header class="site-header" aria-label="Site header">
+      <h1 class="site-title">Communities vs Developers – Hastings Local Plan</h1>
+      <p class="site-tagline">
+        Hastings &amp; St Leonards community groups scrutinising housing development
+        and spending proposals in the Hastings Local Plan, East Sussex.
+      </p>
+    </header>
+
+    <main id="content" aria-label="Main content">
+      <p class="loading">Loading content…</p>
+    </main>
+
+    <footer class="site-footer" aria-label="Site footer">
+      <p>
+        Information resource for community groups in
+        <a href="https://en.wikipedia.org/wiki/Hastings" rel="noopener">Hastings</a>,
+        East Sussex, regarding the
+        <a href="https://www.hastings.gov.uk/planning/local-plan/" rel="noopener">Hastings Local Plan</a>.
+      </p>
+    </footer>
+
+  </div><!-- /.container -->
 </body>
 </html>
