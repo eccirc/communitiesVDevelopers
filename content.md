@@ -1,8 +1,4 @@
-# Communities V Developers
-
-## We need a local plan to benefit local people
-
-Hastings Council is creating a Local Plan. It sets out the vision for our town for the next 20 years. 
+Hastings Council is creating a Local Plan. It sets out the vision for our town for the next 20 years.
 
 But will it be a plan for developers? To build housing we can't afford on our green spaces?
 
