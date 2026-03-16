@@ -86,7 +86,7 @@ Housing Associations must not be permitted to demolish social housing (or leave 
 - [Save our Bathing Pool Site](https://www.facebook.com/groups/saveourbathingpoolsite/)
 - [Refurbish Don't Demolish - Clifton Court](https://refurbishdontdemolish.co.uk/posts/hastings.html)
 - [Hastings Rental Health Co-op](https://hastingsrentalhealthcoop.org/hbc-local-plan-for-co-ops)
-- [Hastings Urban Bikes](https://www.hastingsurbanbikes.org/) - advocating for cycling and campaigning for better cycle infrastructure in Hastings
+- [Hastings Urban Bikes](https://www.hastingsurbanbikes.org/) - advocating for cycling and campaigning for better cycle infrastructure in Hastings. Give your feedback on cycling in Hastings [using this survey](https://forms.office.com/pages/responsepage.aspx?id=VvjjDz8urE-VCHmBFUlxo9YLIcYq3dhLvnQ9HVVupkRUNUw0UVoyMzRIMTJIQldQWVQ0OFJMRTRXMy4u&route=shorturl&fbclid=Iwb21leAQiTHljbGNrBCJMdmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHiTxlEfwUYoLRGdACuRA2dyGwBygImHgxzPhgzzr-tVRKEeBnxt33KFh0YxV_aem_CYazh4aFuYno0Zd4DTtyOg)
 - [Save Breadsell Woods](https://www.facebook.com/share/g/1AeRNPQymV/?mibextid=wwXIfr) - join their facebook group here
 - [Save Speckled Woods](https://www.orecommunitylandtrust.org.uk/speckled-wood-under-threat-again/)
 
