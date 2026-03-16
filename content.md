@@ -8,7 +8,7 @@ The public consultation is now live and will run until April 7th. This will be o
 
 <div class="poster-container">
   <a href="https://www.eventbrite.co.uk/e/1984458425571?aff=oddtdtcreator">
-    <img src="./assets/flyerMar22.jpg" alt="flyer for Hastings local plan event on the 22nd"/>
+    <img src="./assets/conVDAgenda.jpg" alt="flyer for Hastings local plan event on the 22nd"/>
   </a>
 </div>
 
