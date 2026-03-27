@@ -6,13 +6,14 @@ Or will it be a plan for our communities? One that meets our need for affordable
 
 The public consultation is now live and will run until April 7th. This will be our chance to influence what Hastings will be like for the future and you can put in your comments [on the council website](https://hastings.oc2.uk/document/190)
 
-<div class="poster-container">
-  <a href="https://www.eventbrite.co.uk/e/1984458425571?aff=oddtdtcreator">
-    <img src="./assets/conVDAgenda.jpg" alt="flyer for Hastings local plan event on the 22nd"/>
-  </a>
-</div>
+While submitting individual comments for each area this is the most effective way to be heard; you can also contact the council via email at <a href="mailto:fplanning@hastings.gov.uk">fplanning@hastings.gov.uk</a> or contact by phone if you have any difficulties feeding back on the plan by other means <a href="tel:01424 451102">01424 451102</a>
 
-There will be a public event in the Common Room on Cambridge Road in central Hastings on Sunday March 22nd from 1pm to 5pm to hear from the many campaigners proposing changes to the plan. [Full details and sign up on the eventbrite here](https://www.eventbrite.co.uk/e/1984458425571?aff=oddtdtcreator)
+There are two upcoming events hosted by local groups on the 28th March in West St Leonards and Ore:
+
+<div class="poster-container">
+    <img src="./assets/West_St_L_plan.jpg" alt="flyer for Hastings local plan event in West St Leonards on the 28th March"/>
+    <img src="./assets/Tilekiln_event.jpg" alt="flyer for Hastings local plan event in Tilekiln on the 28th March"/>
+</div>
 
 This website will link to the various campaigns and articles by local people who want to make the plan better for communities and our environment. If you want to add your campaign group details please email **communitiesvdevelopers@gmail.com**
 
@@ -84,7 +85,7 @@ Housing Associations must not be permitted to demolish social housing (or leave 
 - [Protect Ore Green Spaces](./assets/A4%20Flier%20Final%20Version.pdf) - flyer for their upcoming meeting - join [WhatsApp group](https://chat.whatsapp.com/JrXjpk1tRnF4L3ka1P3rzc)
 - [Don't Concrete the Convent](https://www.facebook.com/profile.php?id=61584946118558)
 - [Save our Bathing Pool Site](https://www.facebook.com/groups/saveourbathingpoolsite/)
-- [Refurbish Don't Demolish - Clifton Court](https://refurbishdontdemolish.co.uk/posts/hastings.html)
+- [Refurbish Don't Demolish - Clifton Court and the Four Courts](https://refurbishdontdemolish.co.uk/posts/hastings.html)
 - [Hastings Rental Health Co-op](https://hastingsrentalhealthcoop.org/hbc-local-plan-for-co-ops)
 - [Hastings Urban Bikes](https://www.hastingsurbanbikes.org/) - advocating for cycling and campaigning for better cycle infrastructure in Hastings. Give your feedback on cycling in Hastings [using this survey](https://forms.office.com/pages/responsepage.aspx?id=VvjjDz8urE-VCHmBFUlxo9YLIcYq3dhLvnQ9HVVupkRUNUw0UVoyMzRIMTJIQldQWVQ0OFJMRTRXMy4u&route=shorturl&fbclid=Iwb21leAQiTHljbGNrBCJMdmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHiTxlEfwUYoLRGdACuRA2dyGwBygImHgxzPhgzzr-tVRKEeBnxt33KFh0YxV_aem_CYazh4aFuYno0Zd4DTtyOg)
 - [Save Breadsell Woods](https://www.facebook.com/share/g/1AeRNPQymV/?mibextid=wwXIfr) - join their facebook group here
@@ -92,8 +93,10 @@ Housing Associations must not be permitted to demolish social housing (or leave 
 
 ## Resources for alternative local plan ideas -
 
-Sustainable new housing proposals (above car parks and on other brownfield sites) by Urban View architects ‘Greyfield study doc’
-[Crystal Square](https://www.little-ships.org/locations/hastings/crystal-sq/)
+Sustainable new housing proposals (above car parks and on other brownfield sites) by Urban View architects:
 [Modular sustainable housing proposals](./assets/Hastings%20BC%20Greyfield%20Capacity%20Study-extract%2029.05.24%20(4).pdf)
+[Crystal Square Car Park](https://www.little-ships.org/locations/hastings/crystal-sq/)
+[Four Courts](https://www.little-ships.org/locations/hastings/four-courts/)
+[Clifton Court](https://www.little-ships.org/locations/hastings/clifton-court/)
 
 See the [Local Nature Recovery Strategy](https://sussexnaturerecovery.org.uk/publications), which could be included in the Plan

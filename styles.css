@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Arial, sans-serif;
+    font-family: 'Manrope', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Arial, sans-serif;
     line-height: 1.6;
     color: #000;
     background: #fff;
@@ -76,14 +76,16 @@ p, ul {
 
 .poster-container {
     display: flex;
+    flex-direction: column;
     justify-content:center;
     align-items: center;
     width: 100%;
     margin: 3rem auto;
+    gap: 1rem;
 }
 
-.poster-container > a > img {
-    width: 100%;
+.poster-container > img {
+    width: 75%;
 }
 
 strong {
