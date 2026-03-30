@@ -6,14 +6,9 @@ Or will it be a plan for our communities? One that meets our need for affordable
 
 The public consultation is now live and will run until April 7th. This will be our chance to influence what Hastings will be like for the future and you can put in your comments [on the council website](https://hastings.oc2.uk/document/190)
 
-While submitting individual comments for each area this is the most effective way to be heard; you can also contact the council via email at <a href="mailto:fplanning@hastings.gov.uk">fplanning@hastings.gov.uk</a> or contact by phone if you have any difficulties feeding back on the plan by other means <a href="tel:01424 451102">01424 451102</a>
+While submitting individual comments for each area this is the most effective way to be heard, you can also contact the council via email at <a href="mailto:fplanning@hastings.gov.uk">fplanning@hastings.gov.uk</a> or contact by phone if you have any difficulties feeding back on the plan by other means <a href="tel:01424 451102">01424 451102</a>
 
-There are two upcoming events hosted by local groups on the 28th March in West St Leonards and Ore:
-
-<div class="poster-container">
-    <img src="./assets/West_St_L_plan.jpg" alt="flyer for Hastings local plan event in West St Leonards on the 28th March"/>
-    <img src="./assets/Tilekiln_event.jpg" alt="flyer for Hastings local plan event in Tilekiln on the 28th March"/>
-</div>
+Need some ideas on what areas to feedback on? Hastings Heritage Forum have [put together a shared document](https://docs.google.com/document/d/1TtY49fy7mjdyskXbzdZxl1LL3KrvIE7F-bRH3gLSZuE/edit?usp=sharing) to act as a crib sheet to help others to feedback on the plan. Several other groups have contributed to this document and this is a great place to start as you're thinking about how to put together your response.
 
 This website will link to the various campaigns and articles by local people who want to make the plan better for communities and our environment. If you want to add your campaign group details please email **communitiesvdevelopers@gmail.com**
 
