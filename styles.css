@@ -106,7 +106,7 @@ li {
 /* Links */
 a {
     color: #c00;
-    text-decoration: none;
+    text-decoration: underline;
     transition: color 0.2s ease;
     font-weight: bold;
 }

@@ -8,7 +8,8 @@ The public consultation is now live and will run until April 7th. This will be o
 
 While submitting individual comments for each area this is the most effective way to be heard, you can also contact the council via email at <a href="mailto:fplanning@hastings.gov.uk">fplanning@hastings.gov.uk</a> or contact by phone if you have any difficulties feeding back on the plan by other means <a href="tel:01424 451102">01424 451102</a>
 
-Need some ideas on what areas to feedback on? Hastings Heritage Forum have [put together a shared document](https://docs.google.com/document/d/1TtY49fy7mjdyskXbzdZxl1LL3KrvIE7F-bRH3gLSZuE/edit?usp=sharing) to act as a crib sheet to help others to feedback on the plan. Several other groups have contributed to this document and this is a great place to start as you're thinking about how to put together your response.
+Need some ideas on what areas to feedback on? Hastings Heritage Forum have [put together a shared document](https://docs.google.com/document/d/1TtY49fy7mjdyskXbzdZxl1LL3KrvIE7F-bRH3gLSZuE/edit?usp=sharing) to act as a crib sheet to help others to feedback on the plan. Several other groups have contributed to this document and this is a great place to start as you're thinking about how to put together your response. With the help of this resource, and the points outlined below, you can copy and paste the parts and objections that you want to include as part of your response in an email to the above.
+If you are responding by email, you must include your **name**, **address** and use the subject line of **Comment for the local plan consultation**.
 
 This website will link to the various campaigns and articles by local people who want to make the plan better for communities and our environment. If you want to add your campaign group details please email **communitiesvdevelopers@gmail.com**
 
