@@ -11,7 +11,9 @@ While submitting individual comments for each area this is the most effective wa
 Need some ideas on what areas to feedback on? Hastings Heritage Forum have [put together a shared document](https://docs.google.com/document/d/1TtY49fy7mjdyskXbzdZxl1LL3KrvIE7F-bRH3gLSZuE/edit?usp=sharing) to act as a crib sheet to help others to feedback on the plan. Several other groups have contributed to this document and this is a great place to start as you're thinking about how to put together your response. With the help of this resource, and the points outlined below, you can copy and paste the parts and objections that you want to include as part of your response in an email to the above.
 If you are responding by email, you must include your **name**, **address** and use the subject line of **Comment for the local plan consultation**.
 
-<iframe src='https://youtu.be/Wf1JT6btquo'></iframe>
+<div class='video-content'>
+  <iframe src='https://youtube.com/embed/Wf1JT6btquo'></iframe>
+</div>
 
 This website will link to the various campaigns and articles by local people who want to make the plan better for communities and our environment. If you want to add your campaign group details please email **communitiesvdevelopers@gmail.com**
 
