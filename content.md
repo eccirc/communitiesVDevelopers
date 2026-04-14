@@ -4,12 +4,13 @@ But will it be a plan for developers? To build housing we can't afford on our gr
 
 Or will it be a plan for our communities? One that meets our need for affordable housing, amenities and public transport, and protects our green spaces for all of us?
 
-The public consultation is now live and will run until April 7th. This will be our chance to influence what Hastings will be like for the future and you can put in your comments [on the council website](https://hastings.oc2.uk/document/190)
+The public consultation has now closed, but you can still ask our MP, Helena Dollimore, to stand up for Hastings!
 
-While submitting individual comments for each area this is the most effective way to be heard, you can also contact the council via email at <a href="mailto:fplanning@hastings.gov.uk">fplanning@hastings.gov.uk</a> or contact by phone if you have any difficulties feeding back on the plan by other means <a href="tel:01424 451102">01424 451102</a>
-
-Need some ideas on what areas to feedback on? Hastings Heritage Forum have [put together a shared document](https://docs.google.com/document/d/1TtY49fy7mjdyskXbzdZxl1LL3KrvIE7F-bRH3gLSZuE/edit?usp=sharing) to act as a crib sheet to help others to feedback on the plan. Several other groups have contributed to this document and this is a great place to start as you're thinking about how to put together your response. With the help of this resource, and the points outlined below, you can copy and paste the parts and objections that you want to include as part of your response in an email to the above.
-If you are responding by email, you must include your **name**, **address** and use the subject line of **Comment for the local plan consultation**.
+<div class='poster-container'>
+  <img src='./assets/WalkingTour1.jpeg' alt='poster 1 for the walking tour on the 18th April'/>
+  <img src='./assets/WalkingTour2.jpeg' alt='poster 2 for the walking tour on the 18th April'/>
+  <img/>
+</div>
 
 <div class='video-content'>
   <iframe src='https://youtube.com/embed/Wf1JT6btquo'></iframe>
